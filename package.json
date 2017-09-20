@@ -1,0 +1,20 @@
+{
+  "name": "wifi-ftw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "bluebird": "^3.5.0",
+    "chromedriver": "^2.29.0",
+    "request": "^2.81.0",
+    "selenium-webdriver": "^3.4.0",
+    "strftime": "^0.10.0",
+    "underscore": "^1.8.3"
+  }
+}
